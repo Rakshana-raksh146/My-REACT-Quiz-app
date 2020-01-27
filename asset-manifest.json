@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-REACT-Quiz-app.git/static/css/main.0f93a89c.chunk.css",
+    "main.js": "/My-REACT-Quiz-app.git/static/js/main.120d4385.chunk.js",
+    "main.js.map": "/My-REACT-Quiz-app.git/static/js/main.120d4385.chunk.js.map",
+    "runtime-main.js": "/My-REACT-Quiz-app.git/static/js/runtime-main.7bd7a1ad.js",
+    "runtime-main.js.map": "/My-REACT-Quiz-app.git/static/js/runtime-main.7bd7a1ad.js.map",
+    "static/js/2.63be56d4.chunk.js": "/My-REACT-Quiz-app.git/static/js/2.63be56d4.chunk.js",
+    "static/js/2.63be56d4.chunk.js.map": "/My-REACT-Quiz-app.git/static/js/2.63be56d4.chunk.js.map",
+    "index.html": "/My-REACT-Quiz-app.git/index.html",
+    "precache-manifest.9a01368fc6d21534b38f6fe2698ead61.js": "/My-REACT-Quiz-app.git/precache-manifest.9a01368fc6d21534b38f6fe2698ead61.js",
+    "service-worker.js": "/My-REACT-Quiz-app.git/service-worker.js",
+    "static/css/main.0f93a89c.chunk.css.map": "/My-REACT-Quiz-app.git/static/css/main.0f93a89c.chunk.css.map",
+    "static/js/2.63be56d4.chunk.js.LICENSE": "/My-REACT-Quiz-app.git/static/js/2.63be56d4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bd7a1ad.js",
+    "static/js/2.63be56d4.chunk.js",
+    "static/css/main.0f93a89c.chunk.css",
+    "static/js/main.120d4385.chunk.js"
+  ]
+}
